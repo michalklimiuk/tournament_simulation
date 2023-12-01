@@ -1,0 +1,121 @@
+Team A,Team B,Team A Score,Team B Score
+Lithuania,Bulgaria,6,1
+Lithuania,Romania,1,2
+Lithuania,Ireland,2,0
+Lithuania,Slovakia,1,0
+Lithuania,Paraguay,0,1
+Lithuania,Nigeria,0,0
+Lithuania,Australia,2,1
+Lithuania,Tunisia,1,2
+Lithuania,Greece,0,1
+Lithuania,Costa Rica,0,0
+Lithuania,Saudi Arabia,3,5
+Lithuania,Japan,0,1
+Lithuania,Germany,2,1
+Lithuania,Luxembourg,1,4
+Lithuania,Canada,2,1
+Bulgaria,Romania,0,1
+Bulgaria,Ireland,0,1
+Bulgaria,Slovakia,1,0
+Bulgaria,Paraguay,2,1
+Bulgaria,Nigeria,1,2
+Bulgaria,Australia,1,1
+Bulgaria,Tunisia,2,2
+Bulgaria,Greece,1,2
+Bulgaria,Costa Rica,4,1
+Bulgaria,Saudi Arabia,0,1
+Bulgaria,Japan,1,2
+Bulgaria,Germany,0,1
+Bulgaria,Luxembourg,0,2
+Bulgaria,Canada,1,0
+Romania,Ireland,3,2
+Romania,Slovakia,3,0
+Romania,Paraguay,1,2
+Romania,Nigeria,3,0
+Romania,Australia,2,1
+Romania,Tunisia,3,2
+Romania,Greece,1,2
+Romania,Costa Rica,1,0
+Romania,Saudi Arabia,0,0
+Romania,Japan,3,0
+Romania,Germany,4,3
+Romania,Luxembourg,0,0
+Romania,Canada,2,0
+Ireland,Slovakia,0,3
+Ireland,Paraguay,1,1
+Ireland,Nigeria,0,1
+Ireland,Australia,1,2
+Ireland,Tunisia,0,1
+Ireland,Greece,2,0
+Ireland,Costa Rica,1,2
+Ireland,Saudi Arabia,0,1
+Ireland,Japan,0,2
+Ireland,Germany,0,3
+Ireland,Luxembourg,1,1
+Ireland,Canada,0,2
+Slovakia,Paraguay,1,1
+Slovakia,Nigeria,1,0
+Slovakia,Australia,0,0
+Slovakia,Tunisia,0,1
+Slovakia,Greece,0,1
+Slovakia,Costa Rica,0,2
+Slovakia,Saudi Arabia,2,3
+Slovakia,Japan,1,0
+Slovakia,Germany,0,4
+Slovakia,Luxembourg,0,2
+Slovakia,Canada,1,1
+Paraguay,Nigeria,4,1
+Paraguay,Australia,2,1
+Paraguay,Tunisia,2,1
+Paraguay,Greece,0,0
+Paraguay,Costa Rica,0,0
+Paraguay,Saudi Arabia,2,1
+Paraguay,Japan,0,1
+Paraguay,Germany,1,1
+Paraguay,Luxembourg,1,1
+Paraguay,Canada,0,5
+Nigeria,Australia,2,2
+Nigeria,Tunisia,0,1
+Nigeria,Greece,1,1
+Nigeria,Costa Rica,1,2
+Nigeria,Saudi Arabia,0,2
+Nigeria,Japan,0,0
+Nigeria,Germany,0,1
+Nigeria,Luxembourg,0,2
+Nigeria,Canada,2,2
+Australia,Tunisia,1,2
+Australia,Greece,0,2
+Australia,Costa Rica,1,2
+Australia,Saudi Arabia,0,3
+Australia,Japan,0,3
+Australia,Germany,1,2
+Australia,Luxembourg,0,0
+Australia,Canada,0,0
+Tunisia,Greece,0,1
+Tunisia,Costa Rica,0,2
+Tunisia,Saudi Arabia,2,1
+Tunisia,Japan,1,2
+Tunisia,Germany,0,0
+Tunisia,Luxembourg,1,0
+Tunisia,Canada,1,0
+Greece,Costa Rica,1,0
+Greece,Saudi Arabia,0,1
+Greece,Japan,1,1
+Greece,Germany,0,1
+Greece,Luxembourg,2,1
+Greece,Canada,3,1
+Costa Rica,Saudi Arabia,3,1
+Costa Rica,Japan,0,0
+Costa Rica,Germany,0,3
+Costa Rica,Luxembourg,1,0
+Costa Rica,Canada,0,0
+Saudi Arabia,Japan,1,2
+Saudi Arabia,Germany,3,1
+Saudi Arabia,Luxembourg,2,2
+Saudi Arabia,Canada,2,2
+Japan,Germany,2,0
+Japan,Luxembourg,2,0
+Japan,Canada,0,0
+Germany,Luxembourg,0,3
+Germany,Canada,0,1
+Luxembourg,Canada,0,0

@@ -1,0 +1,600 @@
+Match: Lithuania vs Bulgaria
+Score: 6 - 1
+Lithuania stats: {'Pass': 160, 'Shot': 0, 'Interception': 54, 'Goal': 6, 'ShotOnTarget': 26, 'OffTarget': 5}
+Bulgaria stats: {'Pass': 100, 'Shot': 0, 'Interception': 46, 'Goal': 1, 'ShotOnTarget': 25, 'OffTarget': 14}
+--------------------------------------------------
+Match: Lithuania vs Romania
+Score: 1 - 2
+Lithuania stats: {'Pass': 141, 'Shot': 0, 'Interception': 43, 'Goal': 1, 'ShotOnTarget': 38, 'OffTarget': 16}
+Romania stats: {'Pass': 149, 'Shot': 0, 'Interception': 62, 'Goal': 2, 'ShotOnTarget': 21, 'OffTarget': 14}
+--------------------------------------------------
+Match: Lithuania vs Ireland
+Score: 2 - 0
+Lithuania stats: {'Pass': 151, 'Shot': 0, 'Interception': 54, 'Goal': 2, 'ShotOnTarget': 27, 'OffTarget': 13}
+Ireland stats: {'Pass': 107, 'Shot': 0, 'Interception': 57, 'Goal': 0, 'ShotOnTarget': 30, 'OffTarget': 6}
+--------------------------------------------------
+Match: Lithuania vs Slovakia
+Score: 1 - 0
+Lithuania stats: {'Pass': 162, 'Shot': 0, 'Interception': 49, 'Goal': 1, 'ShotOnTarget': 21, 'OffTarget': 13}
+Slovakia stats: {'Pass': 120, 'Shot': 0, 'Interception': 42, 'Goal': 0, 'ShotOnTarget': 26, 'OffTarget': 14}
+--------------------------------------------------
+Match: Lithuania vs Paraguay
+Score: 0 - 1
+Lithuania stats: {'Pass': 173, 'Shot': 0, 'Interception': 45, 'Goal': 0, 'ShotOnTarget': 26, 'OffTarget': 15}
+Paraguay stats: {'Pass': 100, 'Shot': 0, 'Interception': 54, 'Goal': 1, 'ShotOnTarget': 25, 'OffTarget': 6}
+--------------------------------------------------
+Match: Lithuania vs Nigeria
+Score: 0 - 0
+Lithuania stats: {'Pass': 154, 'Shot': 0, 'Interception': 63, 'Goal': 0, 'ShotOnTarget': 25, 'OffTarget': 14}
+Nigeria stats: {'Pass': 130, 'Shot': 0, 'Interception': 59, 'Goal': 0, 'ShotOnTarget': 33, 'OffTarget': 11}
+--------------------------------------------------
+Match: Lithuania vs Australia
+Score: 2 - 1
+Lithuania stats: {'Pass': 156, 'Shot': 0, 'Interception': 38, 'Goal': 2, 'ShotOnTarget': 37, 'OffTarget': 11}
+Australia stats: {'Pass': 111, 'Shot': 0, 'Interception': 50, 'Goal': 1, 'ShotOnTarget': 22, 'OffTarget': 14}
+--------------------------------------------------
+Match: Lithuania vs Tunisia
+Score: 1 - 2
+Lithuania stats: {'Pass': 156, 'Shot': 0, 'Interception': 47, 'Goal': 1, 'ShotOnTarget': 39, 'OffTarget': 12}
+Tunisia stats: {'Pass': 146, 'Shot': 0, 'Interception': 47, 'Goal': 2, 'ShotOnTarget': 44, 'OffTarget': 7}
+--------------------------------------------------
+Match: Lithuania vs Greece
+Score: 0 - 1
+Lithuania stats: {'Pass': 162, 'Shot': 0, 'Interception': 58, 'Goal': 0, 'ShotOnTarget': 21, 'OffTarget': 10}
+Greece stats: {'Pass': 115, 'Shot': 0, 'Interception': 59, 'Goal': 1, 'ShotOnTarget': 19, 'OffTarget': 12}
+--------------------------------------------------
+Match: Lithuania vs Costa Rica
+Score: 0 - 0
+Lithuania stats: {'Pass': 183, 'Shot': 0, 'Interception': 44, 'Goal': 0, 'ShotOnTarget': 40, 'OffTarget': 13}
+Costa Rica stats: {'Pass': 125, 'Shot': 0, 'Interception': 54, 'Goal': 0, 'ShotOnTarget': 34, 'OffTarget': 10}
+--------------------------------------------------
+Match: Lithuania vs Saudi Arabia
+Score: 3 - 5
+Lithuania stats: {'Pass': 160, 'Shot': 0, 'Interception': 45, 'Goal': 3, 'ShotOnTarget': 26, 'OffTarget': 9}
+Saudi Arabia stats: {'Pass': 152, 'Shot': 0, 'Interception': 49, 'Goal': 5, 'ShotOnTarget': 23, 'OffTarget': 8}
+--------------------------------------------------
+Match: Lithuania vs Japan
+Score: 0 - 1
+Lithuania stats: {'Pass': 138, 'Shot': 0, 'Interception': 49, 'Goal': 0, 'ShotOnTarget': 34, 'OffTarget': 5}
+Japan stats: {'Pass': 155, 'Shot': 0, 'Interception': 45, 'Goal': 1, 'ShotOnTarget': 26, 'OffTarget': 17}
+--------------------------------------------------
+Match: Lithuania vs Germany
+Score: 2 - 1
+Lithuania stats: {'Pass': 122, 'Shot': 0, 'Interception': 47, 'Goal': 2, 'ShotOnTarget': 33, 'OffTarget': 15}
+Germany stats: {'Pass': 121, 'Shot': 0, 'Interception': 47, 'Goal': 1, 'ShotOnTarget': 36, 'OffTarget': 13}
+--------------------------------------------------
+Match: Lithuania vs Luxembourg
+Score: 1 - 4
+Lithuania stats: {'Pass': 135, 'Shot': 0, 'Interception': 52, 'Goal': 1, 'ShotOnTarget': 28, 'OffTarget': 12}
+Luxembourg stats: {'Pass': 150, 'Shot': 0, 'Interception': 51, 'Goal': 4, 'ShotOnTarget': 28, 'OffTarget': 13}
+--------------------------------------------------
+Match: Lithuania vs Canada
+Score: 2 - 1
+Lithuania stats: {'Pass': 122, 'Shot': 0, 'Interception': 60, 'Goal': 2, 'ShotOnTarget': 30, 'OffTarget': 16}
+Canada stats: {'Pass': 116, 'Shot': 0, 'Interception': 62, 'Goal': 1, 'ShotOnTarget': 32, 'OffTarget': 13}
+--------------------------------------------------
+Match: Bulgaria vs Romania
+Score: 0 - 1
+Bulgaria stats: {'Pass': 153, 'Shot': 0, 'Interception': 51, 'Goal': 0, 'ShotOnTarget': 30, 'OffTarget': 18}
+Romania stats: {'Pass': 138, 'Shot': 0, 'Interception': 55, 'Goal': 1, 'ShotOnTarget': 34, 'OffTarget': 10}
+--------------------------------------------------
+Match: Bulgaria vs Ireland
+Score: 0 - 1
+Bulgaria stats: {'Pass': 149, 'Shot': 0, 'Interception': 55, 'Goal': 0, 'ShotOnTarget': 30, 'OffTarget': 11}
+Ireland stats: {'Pass': 127, 'Shot': 0, 'Interception': 52, 'Goal': 1, 'ShotOnTarget': 36, 'OffTarget': 9}
+--------------------------------------------------
+Match: Bulgaria vs Slovakia
+Score: 1 - 0
+Bulgaria stats: {'Pass': 182, 'Shot': 0, 'Interception': 60, 'Goal': 1, 'ShotOnTarget': 26, 'OffTarget': 16}
+Slovakia stats: {'Pass': 114, 'Shot': 0, 'Interception': 68, 'Goal': 0, 'ShotOnTarget': 20, 'OffTarget': 13}
+--------------------------------------------------
+Match: Bulgaria vs Paraguay
+Score: 2 - 1
+Bulgaria stats: {'Pass': 144, 'Shot': 0, 'Interception': 54, 'Goal': 2, 'ShotOnTarget': 27, 'OffTarget': 13}
+Paraguay stats: {'Pass': 124, 'Shot': 0, 'Interception': 56, 'Goal': 1, 'ShotOnTarget': 26, 'OffTarget': 13}
+--------------------------------------------------
+Match: Bulgaria vs Nigeria
+Score: 1 - 2
+Bulgaria stats: {'Pass': 147, 'Shot': 0, 'Interception': 43, 'Goal': 1, 'ShotOnTarget': 28, 'OffTarget': 11}
+Nigeria stats: {'Pass': 132, 'Shot': 0, 'Interception': 48, 'Goal': 2, 'ShotOnTarget': 26, 'OffTarget': 9}
+--------------------------------------------------
+Match: Bulgaria vs Australia
+Score: 1 - 1
+Bulgaria stats: {'Pass': 156, 'Shot': 0, 'Interception': 49, 'Goal': 1, 'ShotOnTarget': 27, 'OffTarget': 12}
+Australia stats: {'Pass': 105, 'Shot': 0, 'Interception': 57, 'Goal': 1, 'ShotOnTarget': 22, 'OffTarget': 9}
+--------------------------------------------------
+Match: Bulgaria vs Tunisia
+Score: 2 - 2
+Bulgaria stats: {'Pass': 126, 'Shot': 0, 'Interception': 53, 'Goal': 2, 'ShotOnTarget': 28, 'OffTarget': 9}
+Tunisia stats: {'Pass': 142, 'Shot': 0, 'Interception': 54, 'Goal': 2, 'ShotOnTarget': 30, 'OffTarget': 6}
+--------------------------------------------------
+Match: Bulgaria vs Greece
+Score: 1 - 2
+Bulgaria stats: {'Pass': 134, 'Shot': 0, 'Interception': 54, 'Goal': 1, 'ShotOnTarget': 30, 'OffTarget': 16}
+Greece stats: {'Pass': 144, 'Shot': 0, 'Interception': 54, 'Goal': 2, 'ShotOnTarget': 37, 'OffTarget': 9}
+--------------------------------------------------
+Match: Bulgaria vs Costa Rica
+Score: 4 - 1
+Bulgaria stats: {'Pass': 165, 'Shot': 0, 'Interception': 53, 'Goal': 4, 'ShotOnTarget': 32, 'OffTarget': 11}
+Costa Rica stats: {'Pass': 124, 'Shot': 0, 'Interception': 51, 'Goal': 1, 'ShotOnTarget': 31, 'OffTarget': 15}
+--------------------------------------------------
+Match: Bulgaria vs Saudi Arabia
+Score: 0 - 1
+Bulgaria stats: {'Pass': 130, 'Shot': 0, 'Interception': 59, 'Goal': 0, 'ShotOnTarget': 36, 'OffTarget': 11}
+Saudi Arabia stats: {'Pass': 139, 'Shot': 0, 'Interception': 55, 'Goal': 1, 'ShotOnTarget': 37, 'OffTarget': 15}
+--------------------------------------------------
+Match: Bulgaria vs Japan
+Score: 1 - 2
+Bulgaria stats: {'Pass': 135, 'Shot': 0, 'Interception': 47, 'Goal': 1, 'ShotOnTarget': 28, 'OffTarget': 12}
+Japan stats: {'Pass': 126, 'Shot': 0, 'Interception': 50, 'Goal': 2, 'ShotOnTarget': 22, 'OffTarget': 15}
+--------------------------------------------------
+Match: Bulgaria vs Germany
+Score: 0 - 1
+Bulgaria stats: {'Pass': 142, 'Shot': 0, 'Interception': 55, 'Goal': 0, 'ShotOnTarget': 28, 'OffTarget': 9}
+Germany stats: {'Pass': 128, 'Shot': 0, 'Interception': 60, 'Goal': 1, 'ShotOnTarget': 24, 'OffTarget': 8}
+--------------------------------------------------
+Match: Bulgaria vs Luxembourg
+Score: 0 - 2
+Bulgaria stats: {'Pass': 128, 'Shot': 0, 'Interception': 52, 'Goal': 0, 'ShotOnTarget': 24, 'OffTarget': 10}
+Luxembourg stats: {'Pass': 125, 'Shot': 0, 'Interception': 48, 'Goal': 2, 'ShotOnTarget': 26, 'OffTarget': 12}
+--------------------------------------------------
+Match: Bulgaria vs Canada
+Score: 1 - 0
+Bulgaria stats: {'Pass': 159, 'Shot': 0, 'Interception': 51, 'Goal': 1, 'ShotOnTarget': 38, 'OffTarget': 11}
+Canada stats: {'Pass': 112, 'Shot': 0, 'Interception': 54, 'Goal': 0, 'ShotOnTarget': 36, 'OffTarget': 10}
+--------------------------------------------------
+Match: Romania vs Ireland
+Score: 3 - 2
+Romania stats: {'Pass': 136, 'Shot': 0, 'Interception': 55, 'Goal': 3, 'ShotOnTarget': 24, 'OffTarget': 13}
+Ireland stats: {'Pass': 157, 'Shot': 0, 'Interception': 49, 'Goal': 2, 'ShotOnTarget': 27, 'OffTarget': 16}
+--------------------------------------------------
+Match: Romania vs Slovakia
+Score: 3 - 0
+Romania stats: {'Pass': 154, 'Shot': 0, 'Interception': 43, 'Goal': 3, 'ShotOnTarget': 35, 'OffTarget': 15}
+Slovakia stats: {'Pass': 103, 'Shot': 0, 'Interception': 58, 'Goal': 0, 'ShotOnTarget': 22, 'OffTarget': 12}
+--------------------------------------------------
+Match: Romania vs Paraguay
+Score: 1 - 2
+Romania stats: {'Pass': 153, 'Shot': 0, 'Interception': 63, 'Goal': 1, 'ShotOnTarget': 31, 'OffTarget': 13}
+Paraguay stats: {'Pass': 99, 'Shot': 0, 'Interception': 52, 'Goal': 2, 'ShotOnTarget': 40, 'OffTarget': 16}
+--------------------------------------------------
+Match: Romania vs Nigeria
+Score: 3 - 0
+Romania stats: {'Pass': 133, 'Shot': 0, 'Interception': 71, 'Goal': 3, 'ShotOnTarget': 23, 'OffTarget': 10}
+Nigeria stats: {'Pass': 121, 'Shot': 0, 'Interception': 50, 'Goal': 0, 'ShotOnTarget': 39, 'OffTarget': 14}
+--------------------------------------------------
+Match: Romania vs Australia
+Score: 2 - 1
+Romania stats: {'Pass': 119, 'Shot': 0, 'Interception': 57, 'Goal': 2, 'ShotOnTarget': 28, 'OffTarget': 11}
+Australia stats: {'Pass': 150, 'Shot': 0, 'Interception': 57, 'Goal': 1, 'ShotOnTarget': 33, 'OffTarget': 6}
+--------------------------------------------------
+Match: Romania vs Tunisia
+Score: 3 - 2
+Romania stats: {'Pass': 151, 'Shot': 0, 'Interception': 73, 'Goal': 3, 'ShotOnTarget': 27, 'OffTarget': 11}
+Tunisia stats: {'Pass': 124, 'Shot': 0, 'Interception': 63, 'Goal': 2, 'ShotOnTarget': 30, 'OffTarget': 18}
+--------------------------------------------------
+Match: Romania vs Greece
+Score: 1 - 2
+Romania stats: {'Pass': 134, 'Shot': 0, 'Interception': 51, 'Goal': 1, 'ShotOnTarget': 26, 'OffTarget': 19}
+Greece stats: {'Pass': 130, 'Shot': 0, 'Interception': 53, 'Goal': 2, 'ShotOnTarget': 27, 'OffTarget': 15}
+--------------------------------------------------
+Match: Romania vs Costa Rica
+Score: 1 - 0
+Romania stats: {'Pass': 155, 'Shot': 0, 'Interception': 60, 'Goal': 1, 'ShotOnTarget': 32, 'OffTarget': 4}
+Costa Rica stats: {'Pass': 146, 'Shot': 0, 'Interception': 47, 'Goal': 0, 'ShotOnTarget': 39, 'OffTarget': 10}
+--------------------------------------------------
+Match: Romania vs Saudi Arabia
+Score: 0 - 0
+Romania stats: {'Pass': 118, 'Shot': 0, 'Interception': 59, 'Goal': 0, 'ShotOnTarget': 23, 'OffTarget': 9}
+Saudi Arabia stats: {'Pass': 154, 'Shot': 0, 'Interception': 57, 'Goal': 0, 'ShotOnTarget': 23, 'OffTarget': 10}
+--------------------------------------------------
+Match: Romania vs Japan
+Score: 3 - 0
+Romania stats: {'Pass': 144, 'Shot': 0, 'Interception': 58, 'Goal': 3, 'ShotOnTarget': 23, 'OffTarget': 14}
+Japan stats: {'Pass': 154, 'Shot': 0, 'Interception': 50, 'Goal': 0, 'ShotOnTarget': 27, 'OffTarget': 18}
+--------------------------------------------------
+Match: Romania vs Germany
+Score: 4 - 3
+Romania stats: {'Pass': 124, 'Shot': 0, 'Interception': 65, 'Goal': 4, 'ShotOnTarget': 33, 'OffTarget': 12}
+Germany stats: {'Pass': 145, 'Shot': 0, 'Interception': 64, 'Goal': 3, 'ShotOnTarget': 37, 'OffTarget': 9}
+--------------------------------------------------
+Match: Romania vs Luxembourg
+Score: 0 - 0
+Romania stats: {'Pass': 131, 'Shot': 0, 'Interception': 63, 'Goal': 0, 'ShotOnTarget': 21, 'OffTarget': 18}
+Luxembourg stats: {'Pass': 138, 'Shot': 0, 'Interception': 58, 'Goal': 0, 'ShotOnTarget': 30, 'OffTarget': 13}
+--------------------------------------------------
+Match: Romania vs Canada
+Score: 2 - 0
+Romania stats: {'Pass': 139, 'Shot': 0, 'Interception': 56, 'Goal': 2, 'ShotOnTarget': 37, 'OffTarget': 12}
+Canada stats: {'Pass': 129, 'Shot': 0, 'Interception': 52, 'Goal': 0, 'ShotOnTarget': 37, 'OffTarget': 15}
+--------------------------------------------------
+Match: Ireland vs Slovakia
+Score: 0 - 3
+Ireland stats: {'Pass': 146, 'Shot': 0, 'Interception': 63, 'Goal': 0, 'ShotOnTarget': 27, 'OffTarget': 11}
+Slovakia stats: {'Pass': 118, 'Shot': 0, 'Interception': 62, 'Goal': 3, 'ShotOnTarget': 23, 'OffTarget': 16}
+--------------------------------------------------
+Match: Ireland vs Paraguay
+Score: 1 - 1
+Ireland stats: {'Pass': 115, 'Shot': 0, 'Interception': 65, 'Goal': 1, 'ShotOnTarget': 30, 'OffTarget': 12}
+Paraguay stats: {'Pass': 130, 'Shot': 0, 'Interception': 61, 'Goal': 1, 'ShotOnTarget': 28, 'OffTarget': 17}
+--------------------------------------------------
+Match: Ireland vs Nigeria
+Score: 0 - 1
+Ireland stats: {'Pass': 113, 'Shot': 0, 'Interception': 52, 'Goal': 0, 'ShotOnTarget': 38, 'OffTarget': 5}
+Nigeria stats: {'Pass': 140, 'Shot': 0, 'Interception': 55, 'Goal': 1, 'ShotOnTarget': 29, 'OffTarget': 10}
+--------------------------------------------------
+Match: Ireland vs Australia
+Score: 1 - 2
+Ireland stats: {'Pass': 118, 'Shot': 0, 'Interception': 71, 'Goal': 1, 'ShotOnTarget': 28, 'OffTarget': 12}
+Australia stats: {'Pass': 159, 'Shot': 0, 'Interception': 64, 'Goal': 2, 'ShotOnTarget': 33, 'OffTarget': 14}
+--------------------------------------------------
+Match: Ireland vs Tunisia
+Score: 0 - 1
+Ireland stats: {'Pass': 103, 'Shot': 0, 'Interception': 42, 'Goal': 0, 'ShotOnTarget': 24, 'OffTarget': 9}
+Tunisia stats: {'Pass': 162, 'Shot': 0, 'Interception': 40, 'Goal': 1, 'ShotOnTarget': 30, 'OffTarget': 5}
+--------------------------------------------------
+Match: Ireland vs Greece
+Score: 2 - 0
+Ireland stats: {'Pass': 126, 'Shot': 0, 'Interception': 53, 'Goal': 2, 'ShotOnTarget': 31, 'OffTarget': 16}
+Greece stats: {'Pass': 145, 'Shot': 0, 'Interception': 64, 'Goal': 0, 'ShotOnTarget': 23, 'OffTarget': 13}
+--------------------------------------------------
+Match: Ireland vs Costa Rica
+Score: 1 - 2
+Ireland stats: {'Pass': 118, 'Shot': 0, 'Interception': 52, 'Goal': 1, 'ShotOnTarget': 37, 'OffTarget': 10}
+Costa Rica stats: {'Pass': 162, 'Shot': 0, 'Interception': 57, 'Goal': 2, 'ShotOnTarget': 31, 'OffTarget': 12}
+--------------------------------------------------
+Match: Ireland vs Saudi Arabia
+Score: 0 - 1
+Ireland stats: {'Pass': 107, 'Shot': 0, 'Interception': 58, 'Goal': 0, 'ShotOnTarget': 22, 'OffTarget': 8}
+Saudi Arabia stats: {'Pass': 139, 'Shot': 0, 'Interception': 48, 'Goal': 1, 'ShotOnTarget': 26, 'OffTarget': 14}
+--------------------------------------------------
+Match: Ireland vs Japan
+Score: 0 - 2
+Ireland stats: {'Pass': 124, 'Shot': 0, 'Interception': 61, 'Goal': 0, 'ShotOnTarget': 31, 'OffTarget': 6}
+Japan stats: {'Pass': 140, 'Shot': 0, 'Interception': 45, 'Goal': 2, 'ShotOnTarget': 36, 'OffTarget': 18}
+--------------------------------------------------
+Match: Ireland vs Germany
+Score: 0 - 3
+Ireland stats: {'Pass': 105, 'Shot': 0, 'Interception': 53, 'Goal': 0, 'ShotOnTarget': 33, 'OffTarget': 13}
+Germany stats: {'Pass': 143, 'Shot': 0, 'Interception': 49, 'Goal': 3, 'ShotOnTarget': 41, 'OffTarget': 9}
+--------------------------------------------------
+Match: Ireland vs Luxembourg
+Score: 1 - 1
+Ireland stats: {'Pass': 135, 'Shot': 0, 'Interception': 48, 'Goal': 1, 'ShotOnTarget': 37, 'OffTarget': 13}
+Luxembourg stats: {'Pass': 147, 'Shot': 0, 'Interception': 50, 'Goal': 1, 'ShotOnTarget': 37, 'OffTarget': 11}
+--------------------------------------------------
+Match: Ireland vs Canada
+Score: 0 - 2
+Ireland stats: {'Pass': 129, 'Shot': 0, 'Interception': 58, 'Goal': 0, 'ShotOnTarget': 31, 'OffTarget': 14}
+Canada stats: {'Pass': 126, 'Shot': 0, 'Interception': 52, 'Goal': 2, 'ShotOnTarget': 32, 'OffTarget': 18}
+--------------------------------------------------
+Match: Slovakia vs Paraguay
+Score: 1 - 1
+Slovakia stats: {'Pass': 152, 'Shot': 0, 'Interception': 61, 'Goal': 1, 'ShotOnTarget': 30, 'OffTarget': 15}
+Paraguay stats: {'Pass': 130, 'Shot': 0, 'Interception': 63, 'Goal': 1, 'ShotOnTarget': 23, 'OffTarget': 20}
+--------------------------------------------------
+Match: Slovakia vs Nigeria
+Score: 1 - 0
+Slovakia stats: {'Pass': 124, 'Shot': 0, 'Interception': 57, 'Goal': 1, 'ShotOnTarget': 27, 'OffTarget': 14}
+Nigeria stats: {'Pass': 131, 'Shot': 0, 'Interception': 57, 'Goal': 0, 'ShotOnTarget': 30, 'OffTarget': 11}
+--------------------------------------------------
+Match: Slovakia vs Australia
+Score: 0 - 0
+Slovakia stats: {'Pass': 131, 'Shot': 0, 'Interception': 66, 'Goal': 0, 'ShotOnTarget': 27, 'OffTarget': 7}
+Australia stats: {'Pass': 123, 'Shot': 0, 'Interception': 59, 'Goal': 0, 'ShotOnTarget': 29, 'OffTarget': 12}
+--------------------------------------------------
+Match: Slovakia vs Tunisia
+Score: 0 - 1
+Slovakia stats: {'Pass': 129, 'Shot': 0, 'Interception': 54, 'Goal': 0, 'ShotOnTarget': 26, 'OffTarget': 13}
+Tunisia stats: {'Pass': 174, 'Shot': 0, 'Interception': 56, 'Goal': 1, 'ShotOnTarget': 27, 'OffTarget': 9}
+--------------------------------------------------
+Match: Slovakia vs Greece
+Score: 0 - 1
+Slovakia stats: {'Pass': 115, 'Shot': 0, 'Interception': 45, 'Goal': 0, 'ShotOnTarget': 26, 'OffTarget': 12}
+Greece stats: {'Pass': 155, 'Shot': 0, 'Interception': 44, 'Goal': 1, 'ShotOnTarget': 28, 'OffTarget': 12}
+--------------------------------------------------
+Match: Slovakia vs Costa Rica
+Score: 0 - 2
+Slovakia stats: {'Pass': 127, 'Shot': 0, 'Interception': 75, 'Goal': 0, 'ShotOnTarget': 33, 'OffTarget': 10}
+Costa Rica stats: {'Pass': 147, 'Shot': 0, 'Interception': 67, 'Goal': 2, 'ShotOnTarget': 31, 'OffTarget': 20}
+--------------------------------------------------
+Match: Slovakia vs Saudi Arabia
+Score: 2 - 3
+Slovakia stats: {'Pass': 137, 'Shot': 0, 'Interception': 66, 'Goal': 2, 'ShotOnTarget': 26, 'OffTarget': 17}
+Saudi Arabia stats: {'Pass': 135, 'Shot': 0, 'Interception': 61, 'Goal': 3, 'ShotOnTarget': 30, 'OffTarget': 18}
+--------------------------------------------------
+Match: Slovakia vs Japan
+Score: 1 - 0
+Slovakia stats: {'Pass': 121, 'Shot': 0, 'Interception': 56, 'Goal': 1, 'ShotOnTarget': 16, 'OffTarget': 8}
+Japan stats: {'Pass': 133, 'Shot': 0, 'Interception': 39, 'Goal': 0, 'ShotOnTarget': 24, 'OffTarget': 16}
+--------------------------------------------------
+Match: Slovakia vs Germany
+Score: 0 - 4
+Slovakia stats: {'Pass': 140, 'Shot': 0, 'Interception': 59, 'Goal': 0, 'ShotOnTarget': 25, 'OffTarget': 9}
+Germany stats: {'Pass': 138, 'Shot': 0, 'Interception': 57, 'Goal': 4, 'ShotOnTarget': 27, 'OffTarget': 9}
+--------------------------------------------------
+Match: Slovakia vs Luxembourg
+Score: 0 - 2
+Slovakia stats: {'Pass': 156, 'Shot': 0, 'Interception': 69, 'Goal': 0, 'ShotOnTarget': 32, 'OffTarget': 11}
+Luxembourg stats: {'Pass': 151, 'Shot': 0, 'Interception': 78, 'Goal': 2, 'ShotOnTarget': 27, 'OffTarget': 7}
+--------------------------------------------------
+Match: Slovakia vs Canada
+Score: 1 - 1
+Slovakia stats: {'Pass': 106, 'Shot': 0, 'Interception': 63, 'Goal': 1, 'ShotOnTarget': 28, 'OffTarget': 17}
+Canada stats: {'Pass': 154, 'Shot': 0, 'Interception': 61, 'Goal': 1, 'ShotOnTarget': 30, 'OffTarget': 16}
+--------------------------------------------------
+Match: Paraguay vs Nigeria
+Score: 4 - 1
+Paraguay stats: {'Pass': 123, 'Shot': 0, 'Interception': 64, 'Goal': 4, 'ShotOnTarget': 31, 'OffTarget': 11}
+Nigeria stats: {'Pass': 138, 'Shot': 0, 'Interception': 58, 'Goal': 1, 'ShotOnTarget': 42, 'OffTarget': 7}
+--------------------------------------------------
+Match: Paraguay vs Australia
+Score: 2 - 1
+Paraguay stats: {'Pass': 153, 'Shot': 0, 'Interception': 61, 'Goal': 2, 'ShotOnTarget': 27, 'OffTarget': 18}
+Australia stats: {'Pass': 99, 'Shot': 0, 'Interception': 69, 'Goal': 1, 'ShotOnTarget': 24, 'OffTarget': 13}
+--------------------------------------------------
+Match: Paraguay vs Tunisia
+Score: 2 - 1
+Paraguay stats: {'Pass': 138, 'Shot': 0, 'Interception': 51, 'Goal': 2, 'ShotOnTarget': 26, 'OffTarget': 9}
+Tunisia stats: {'Pass': 131, 'Shot': 0, 'Interception': 45, 'Goal': 1, 'ShotOnTarget': 30, 'OffTarget': 11}
+--------------------------------------------------
+Match: Paraguay vs Greece
+Score: 0 - 0
+Paraguay stats: {'Pass': 127, 'Shot': 0, 'Interception': 70, 'Goal': 0, 'ShotOnTarget': 25, 'OffTarget': 16}
+Greece stats: {'Pass': 147, 'Shot': 0, 'Interception': 61, 'Goal': 0, 'ShotOnTarget': 28, 'OffTarget': 21}
+--------------------------------------------------
+Match: Paraguay vs Costa Rica
+Score: 0 - 0
+Paraguay stats: {'Pass': 111, 'Shot': 0, 'Interception': 61, 'Goal': 0, 'ShotOnTarget': 33, 'OffTarget': 7}
+Costa Rica stats: {'Pass': 147, 'Shot': 0, 'Interception': 54, 'Goal': 0, 'ShotOnTarget': 32, 'OffTarget': 16}
+--------------------------------------------------
+Match: Paraguay vs Saudi Arabia
+Score: 2 - 1
+Paraguay stats: {'Pass': 115, 'Shot': 0, 'Interception': 73, 'Goal': 2, 'ShotOnTarget': 30, 'OffTarget': 14}
+Saudi Arabia stats: {'Pass': 166, 'Shot': 0, 'Interception': 60, 'Goal': 1, 'ShotOnTarget': 39, 'OffTarget': 18}
+--------------------------------------------------
+Match: Paraguay vs Japan
+Score: 0 - 1
+Paraguay stats: {'Pass': 106, 'Shot': 0, 'Interception': 66, 'Goal': 0, 'ShotOnTarget': 24, 'OffTarget': 23}
+Japan stats: {'Pass': 171, 'Shot': 0, 'Interception': 61, 'Goal': 1, 'ShotOnTarget': 34, 'OffTarget': 18}
+--------------------------------------------------
+Match: Paraguay vs Germany
+Score: 1 - 1
+Paraguay stats: {'Pass': 129, 'Shot': 0, 'Interception': 70, 'Goal': 1, 'ShotOnTarget': 27, 'OffTarget': 13}
+Germany stats: {'Pass': 117, 'Shot': 0, 'Interception': 66, 'Goal': 1, 'ShotOnTarget': 30, 'OffTarget': 14}
+--------------------------------------------------
+Match: Paraguay vs Luxembourg
+Score: 1 - 1
+Paraguay stats: {'Pass': 126, 'Shot': 0, 'Interception': 70, 'Goal': 1, 'ShotOnTarget': 29, 'OffTarget': 11}
+Luxembourg stats: {'Pass': 133, 'Shot': 0, 'Interception': 61, 'Goal': 1, 'ShotOnTarget': 33, 'OffTarget': 16}
+--------------------------------------------------
+Match: Paraguay vs Canada
+Score: 0 - 5
+Paraguay stats: {'Pass': 119, 'Shot': 0, 'Interception': 60, 'Goal': 0, 'ShotOnTarget': 29, 'OffTarget': 11}
+Canada stats: {'Pass': 145, 'Shot': 0, 'Interception': 54, 'Goal': 5, 'ShotOnTarget': 30, 'OffTarget': 16}
+--------------------------------------------------
+Match: Nigeria vs Australia
+Score: 2 - 2
+Nigeria stats: {'Pass': 148, 'Shot': 0, 'Interception': 52, 'Goal': 2, 'ShotOnTarget': 28, 'OffTarget': 8}
+Australia stats: {'Pass': 155, 'Shot': 0, 'Interception': 51, 'Goal': 2, 'ShotOnTarget': 22, 'OffTarget': 14}
+--------------------------------------------------
+Match: Nigeria vs Tunisia
+Score: 0 - 1
+Nigeria stats: {'Pass': 123, 'Shot': 0, 'Interception': 40, 'Goal': 0, 'ShotOnTarget': 28, 'OffTarget': 12}
+Tunisia stats: {'Pass': 162, 'Shot': 0, 'Interception': 34, 'Goal': 1, 'ShotOnTarget': 35, 'OffTarget': 11}
+--------------------------------------------------
+Match: Nigeria vs Greece
+Score: 1 - 1
+Nigeria stats: {'Pass': 143, 'Shot': 0, 'Interception': 67, 'Goal': 1, 'ShotOnTarget': 29, 'OffTarget': 12}
+Greece stats: {'Pass': 126, 'Shot': 0, 'Interception': 58, 'Goal': 1, 'ShotOnTarget': 37, 'OffTarget': 13}
+--------------------------------------------------
+Match: Nigeria vs Costa Rica
+Score: 1 - 2
+Nigeria stats: {'Pass': 132, 'Shot': 0, 'Interception': 63, 'Goal': 1, 'ShotOnTarget': 29, 'OffTarget': 11}
+Costa Rica stats: {'Pass': 140, 'Shot': 0, 'Interception': 62, 'Goal': 2, 'ShotOnTarget': 32, 'OffTarget': 10}
+--------------------------------------------------
+Match: Nigeria vs Saudi Arabia
+Score: 0 - 2
+Nigeria stats: {'Pass': 132, 'Shot': 0, 'Interception': 52, 'Goal': 0, 'ShotOnTarget': 29, 'OffTarget': 13}
+Saudi Arabia stats: {'Pass': 141, 'Shot': 0, 'Interception': 43, 'Goal': 2, 'ShotOnTarget': 33, 'OffTarget': 18}
+--------------------------------------------------
+Match: Nigeria vs Japan
+Score: 0 - 0
+Nigeria stats: {'Pass': 129, 'Shot': 0, 'Interception': 57, 'Goal': 0, 'ShotOnTarget': 29, 'OffTarget': 14}
+Japan stats: {'Pass': 156, 'Shot': 0, 'Interception': 58, 'Goal': 0, 'ShotOnTarget': 34, 'OffTarget': 8}
+--------------------------------------------------
+Match: Nigeria vs Germany
+Score: 0 - 1
+Nigeria stats: {'Pass': 130, 'Shot': 0, 'Interception': 59, 'Goal': 0, 'ShotOnTarget': 32, 'OffTarget': 13}
+Germany stats: {'Pass': 138, 'Shot': 0, 'Interception': 48, 'Goal': 1, 'ShotOnTarget': 39, 'OffTarget': 17}
+--------------------------------------------------
+Match: Nigeria vs Luxembourg
+Score: 0 - 2
+Nigeria stats: {'Pass': 115, 'Shot': 0, 'Interception': 63, 'Goal': 0, 'ShotOnTarget': 21, 'OffTarget': 24}
+Luxembourg stats: {'Pass': 159, 'Shot': 0, 'Interception': 60, 'Goal': 2, 'ShotOnTarget': 35, 'OffTarget': 12}
+--------------------------------------------------
+Match: Nigeria vs Canada
+Score: 2 - 2
+Nigeria stats: {'Pass': 146, 'Shot': 0, 'Interception': 58, 'Goal': 2, 'ShotOnTarget': 25, 'OffTarget': 14}
+Canada stats: {'Pass': 109, 'Shot': 0, 'Interception': 51, 'Goal': 2, 'ShotOnTarget': 28, 'OffTarget': 18}
+--------------------------------------------------
+Match: Australia vs Tunisia
+Score: 1 - 2
+Australia stats: {'Pass': 122, 'Shot': 0, 'Interception': 69, 'Goal': 1, 'ShotOnTarget': 25, 'OffTarget': 18}
+Tunisia stats: {'Pass': 163, 'Shot': 0, 'Interception': 63, 'Goal': 2, 'ShotOnTarget': 32, 'OffTarget': 17}
+--------------------------------------------------
+Match: Australia vs Greece
+Score: 0 - 2
+Australia stats: {'Pass': 134, 'Shot': 0, 'Interception': 51, 'Goal': 0, 'ShotOnTarget': 29, 'OffTarget': 12}
+Greece stats: {'Pass': 136, 'Shot': 0, 'Interception': 52, 'Goal': 2, 'ShotOnTarget': 30, 'OffTarget': 10}
+--------------------------------------------------
+Match: Australia vs Costa Rica
+Score: 1 - 2
+Australia stats: {'Pass': 112, 'Shot': 0, 'Interception': 50, 'Goal': 1, 'ShotOnTarget': 24, 'OffTarget': 14}
+Costa Rica stats: {'Pass': 176, 'Shot': 0, 'Interception': 39, 'Goal': 2, 'ShotOnTarget': 34, 'OffTarget': 15}
+--------------------------------------------------
+Match: Australia vs Saudi Arabia
+Score: 0 - 3
+Australia stats: {'Pass': 111, 'Shot': 0, 'Interception': 61, 'Goal': 0, 'ShotOnTarget': 28, 'OffTarget': 14}
+Saudi Arabia stats: {'Pass': 127, 'Shot': 0, 'Interception': 43, 'Goal': 3, 'ShotOnTarget': 42, 'OffTarget': 18}
+--------------------------------------------------
+Match: Australia vs Japan
+Score: 0 - 3
+Australia stats: {'Pass': 122, 'Shot': 0, 'Interception': 60, 'Goal': 0, 'ShotOnTarget': 29, 'OffTarget': 9}
+Japan stats: {'Pass': 152, 'Shot': 0, 'Interception': 53, 'Goal': 3, 'ShotOnTarget': 30, 'OffTarget': 16}
+--------------------------------------------------
+Match: Australia vs Germany
+Score: 1 - 2
+Australia stats: {'Pass': 112, 'Shot': 0, 'Interception': 58, 'Goal': 1, 'ShotOnTarget': 29, 'OffTarget': 7}
+Germany stats: {'Pass': 182, 'Shot': 0, 'Interception': 62, 'Goal': 2, 'ShotOnTarget': 23, 'OffTarget': 9}
+--------------------------------------------------
+Match: Australia vs Luxembourg
+Score: 0 - 0
+Australia stats: {'Pass': 141, 'Shot': 0, 'Interception': 61, 'Goal': 0, 'ShotOnTarget': 41, 'OffTarget': 13}
+Luxembourg stats: {'Pass': 129, 'Shot': 0, 'Interception': 70, 'Goal': 0, 'ShotOnTarget': 25, 'OffTarget': 19}
+--------------------------------------------------
+Match: Australia vs Canada
+Score: 0 - 0
+Australia stats: {'Pass': 134, 'Shot': 0, 'Interception': 77, 'Goal': 0, 'ShotOnTarget': 25, 'OffTarget': 7}
+Canada stats: {'Pass': 156, 'Shot': 0, 'Interception': 60, 'Goal': 0, 'ShotOnTarget': 28, 'OffTarget': 21}
+--------------------------------------------------
+Match: Tunisia vs Greece
+Score: 0 - 1
+Tunisia stats: {'Pass': 178, 'Shot': 0, 'Interception': 38, 'Goal': 0, 'ShotOnTarget': 27, 'OffTarget': 11}
+Greece stats: {'Pass': 99, 'Shot': 0, 'Interception': 43, 'Goal': 1, 'ShotOnTarget': 24, 'OffTarget': 9}
+--------------------------------------------------
+Match: Tunisia vs Costa Rica
+Score: 0 - 2
+Tunisia stats: {'Pass': 153, 'Shot': 0, 'Interception': 42, 'Goal': 0, 'ShotOnTarget': 42, 'OffTarget': 12}
+Costa Rica stats: {'Pass': 130, 'Shot': 0, 'Interception': 62, 'Goal': 2, 'ShotOnTarget': 24, 'OffTarget': 9}
+--------------------------------------------------
+Match: Tunisia vs Saudi Arabia
+Score: 2 - 1
+Tunisia stats: {'Pass': 195, 'Shot': 0, 'Interception': 34, 'Goal': 2, 'ShotOnTarget': 35, 'OffTarget': 20}
+Saudi Arabia stats: {'Pass': 130, 'Shot': 0, 'Interception': 33, 'Goal': 1, 'ShotOnTarget': 36, 'OffTarget': 21}
+--------------------------------------------------
+Match: Tunisia vs Japan
+Score: 1 - 2
+Tunisia stats: {'Pass': 170, 'Shot': 0, 'Interception': 50, 'Goal': 1, 'ShotOnTarget': 35, 'OffTarget': 16}
+Japan stats: {'Pass': 145, 'Shot': 0, 'Interception': 48, 'Goal': 2, 'ShotOnTarget': 36, 'OffTarget': 17}
+--------------------------------------------------
+Match: Tunisia vs Germany
+Score: 0 - 0
+Tunisia stats: {'Pass': 121, 'Shot': 0, 'Interception': 36, 'Goal': 0, 'ShotOnTarget': 31, 'OffTarget': 13}
+Germany stats: {'Pass': 142, 'Shot': 0, 'Interception': 48, 'Goal': 0, 'ShotOnTarget': 25, 'OffTarget': 7}
+--------------------------------------------------
+Match: Tunisia vs Luxembourg
+Score: 1 - 0
+Tunisia stats: {'Pass': 155, 'Shot': 0, 'Interception': 46, 'Goal': 1, 'ShotOnTarget': 33, 'OffTarget': 9}
+Luxembourg stats: {'Pass': 115, 'Shot': 0, 'Interception': 49, 'Goal': 0, 'ShotOnTarget': 21, 'OffTarget': 18}
+--------------------------------------------------
+Match: Tunisia vs Canada
+Score: 1 - 0
+Tunisia stats: {'Pass': 162, 'Shot': 0, 'Interception': 56, 'Goal': 1, 'ShotOnTarget': 29, 'OffTarget': 12}
+Canada stats: {'Pass': 111, 'Shot': 0, 'Interception': 60, 'Goal': 0, 'ShotOnTarget': 27, 'OffTarget': 10}
+--------------------------------------------------
+Match: Greece vs Costa Rica
+Score: 1 - 0
+Greece stats: {'Pass': 131, 'Shot': 0, 'Interception': 54, 'Goal': 1, 'ShotOnTarget': 30, 'OffTarget': 13}
+Costa Rica stats: {'Pass': 148, 'Shot': 0, 'Interception': 52, 'Goal': 0, 'ShotOnTarget': 33, 'OffTarget': 11}
+--------------------------------------------------
+Match: Greece vs Saudi Arabia
+Score: 0 - 1
+Greece stats: {'Pass': 151, 'Shot': 0, 'Interception': 42, 'Goal': 0, 'ShotOnTarget': 32, 'OffTarget': 17}
+Saudi Arabia stats: {'Pass': 128, 'Shot': 0, 'Interception': 50, 'Goal': 1, 'ShotOnTarget': 34, 'OffTarget': 8}
+--------------------------------------------------
+Match: Greece vs Japan
+Score: 1 - 1
+Greece stats: {'Pass': 143, 'Shot': 0, 'Interception': 70, 'Goal': 1, 'ShotOnTarget': 22, 'OffTarget': 11}
+Japan stats: {'Pass': 117, 'Shot': 0, 'Interception': 51, 'Goal': 1, 'ShotOnTarget': 38, 'OffTarget': 14}
+--------------------------------------------------
+Match: Greece vs Germany
+Score: 0 - 1
+Greece stats: {'Pass': 112, 'Shot': 0, 'Interception': 55, 'Goal': 0, 'ShotOnTarget': 30, 'OffTarget': 19}
+Germany stats: {'Pass': 154, 'Shot': 0, 'Interception': 56, 'Goal': 1, 'ShotOnTarget': 35, 'OffTarget': 13}
+--------------------------------------------------
+Match: Greece vs Luxembourg
+Score: 2 - 1
+Greece stats: {'Pass': 129, 'Shot': 0, 'Interception': 54, 'Goal': 2, 'ShotOnTarget': 29, 'OffTarget': 10}
+Luxembourg stats: {'Pass': 121, 'Shot': 0, 'Interception': 50, 'Goal': 1, 'ShotOnTarget': 28, 'OffTarget': 16}
+--------------------------------------------------
+Match: Greece vs Canada
+Score: 3 - 1
+Greece stats: {'Pass': 130, 'Shot': 0, 'Interception': 48, 'Goal': 3, 'ShotOnTarget': 26, 'OffTarget': 13}
+Canada stats: {'Pass': 134, 'Shot': 0, 'Interception': 57, 'Goal': 1, 'ShotOnTarget': 25, 'OffTarget': 6}
+--------------------------------------------------
+Match: Costa Rica vs Saudi Arabia
+Score: 3 - 1
+Costa Rica stats: {'Pass': 116, 'Shot': 0, 'Interception': 48, 'Goal': 3, 'ShotOnTarget': 28, 'OffTarget': 15}
+Saudi Arabia stats: {'Pass': 146, 'Shot': 0, 'Interception': 49, 'Goal': 1, 'ShotOnTarget': 28, 'OffTarget': 14}
+--------------------------------------------------
+Match: Costa Rica vs Japan
+Score: 0 - 0
+Costa Rica stats: {'Pass': 163, 'Shot': 0, 'Interception': 46, 'Goal': 0, 'ShotOnTarget': 34, 'OffTarget': 17}
+Japan stats: {'Pass': 142, 'Shot': 0, 'Interception': 55, 'Goal': 0, 'ShotOnTarget': 29, 'OffTarget': 12}
+--------------------------------------------------
+Match: Costa Rica vs Germany
+Score: 0 - 3
+Costa Rica stats: {'Pass': 140, 'Shot': 0, 'Interception': 55, 'Goal': 0, 'ShotOnTarget': 23, 'OffTarget': 15}
+Germany stats: {'Pass': 139, 'Shot': 0, 'Interception': 51, 'Goal': 3, 'ShotOnTarget': 33, 'OffTarget': 9}
+--------------------------------------------------
+Match: Costa Rica vs Luxembourg
+Score: 1 - 0
+Costa Rica stats: {'Pass': 121, 'Shot': 0, 'Interception': 64, 'Goal': 1, 'ShotOnTarget': 29, 'OffTarget': 9}
+Luxembourg stats: {'Pass': 147, 'Shot': 0, 'Interception': 57, 'Goal': 0, 'ShotOnTarget': 29, 'OffTarget': 16}
+--------------------------------------------------
+Match: Costa Rica vs Canada
+Score: 0 - 0
+Costa Rica stats: {'Pass': 118, 'Shot': 0, 'Interception': 62, 'Goal': 0, 'ShotOnTarget': 33, 'OffTarget': 10}
+Canada stats: {'Pass': 138, 'Shot': 0, 'Interception': 53, 'Goal': 0, 'ShotOnTarget': 30, 'OffTarget': 23}
+--------------------------------------------------
+Match: Saudi Arabia vs Japan
+Score: 1 - 2
+Saudi Arabia stats: {'Pass': 129, 'Shot': 0, 'Interception': 52, 'Goal': 1, 'ShotOnTarget': 31, 'OffTarget': 13}
+Japan stats: {'Pass': 148, 'Shot': 0, 'Interception': 54, 'Goal': 2, 'ShotOnTarget': 32, 'OffTarget': 11}
+--------------------------------------------------
+Match: Saudi Arabia vs Germany
+Score: 3 - 1
+Saudi Arabia stats: {'Pass': 151, 'Shot': 0, 'Interception': 54, 'Goal': 3, 'ShotOnTarget': 29, 'OffTarget': 19}
+Germany stats: {'Pass': 142, 'Shot': 0, 'Interception': 53, 'Goal': 1, 'ShotOnTarget': 35, 'OffTarget': 13}
+--------------------------------------------------
+Match: Saudi Arabia vs Luxembourg
+Score: 2 - 2
+Saudi Arabia stats: {'Pass': 137, 'Shot': 0, 'Interception': 44, 'Goal': 2, 'ShotOnTarget': 35, 'OffTarget': 15}
+Luxembourg stats: {'Pass': 172, 'Shot': 0, 'Interception': 57, 'Goal': 2, 'ShotOnTarget': 23, 'OffTarget': 14}
+--------------------------------------------------
+Match: Saudi Arabia vs Canada
+Score: 2 - 2
+Saudi Arabia stats: {'Pass': 136, 'Shot': 0, 'Interception': 60, 'Goal': 2, 'ShotOnTarget': 30, 'OffTarget': 12}
+Canada stats: {'Pass': 119, 'Shot': 0, 'Interception': 53, 'Goal': 2, 'ShotOnTarget': 34, 'OffTarget': 14}
+--------------------------------------------------
+Match: Japan vs Germany
+Score: 2 - 0
+Japan stats: {'Pass': 127, 'Shot': 0, 'Interception': 43, 'Goal': 2, 'ShotOnTarget': 28, 'OffTarget': 17}
+Germany stats: {'Pass': 152, 'Shot': 0, 'Interception': 46, 'Goal': 0, 'ShotOnTarget': 35, 'OffTarget': 7}
+--------------------------------------------------
+Match: Japan vs Luxembourg
+Score: 2 - 0
+Japan stats: {'Pass': 148, 'Shot': 0, 'Interception': 53, 'Goal': 2, 'ShotOnTarget': 31, 'OffTarget': 18}
+Luxembourg stats: {'Pass': 123, 'Shot': 0, 'Interception': 61, 'Goal': 0, 'ShotOnTarget': 32, 'OffTarget': 9}
+--------------------------------------------------
+Match: Japan vs Canada
+Score: 0 - 0
+Japan stats: {'Pass': 139, 'Shot': 0, 'Interception': 41, 'Goal': 0, 'ShotOnTarget': 30, 'OffTarget': 15}
+Canada stats: {'Pass': 130, 'Shot': 0, 'Interception': 50, 'Goal': 0, 'ShotOnTarget': 23, 'OffTarget': 12}
+--------------------------------------------------
+Match: Germany vs Luxembourg
+Score: 0 - 3
+Germany stats: {'Pass': 143, 'Shot': 0, 'Interception': 62, 'Goal': 0, 'ShotOnTarget': 32, 'OffTarget': 10}
+Luxembourg stats: {'Pass': 155, 'Shot': 0, 'Interception': 63, 'Goal': 3, 'ShotOnTarget': 31, 'OffTarget': 11}
+--------------------------------------------------
+Match: Germany vs Canada
+Score: 0 - 1
+Germany stats: {'Pass': 130, 'Shot': 0, 'Interception': 71, 'Goal': 0, 'ShotOnTarget': 30, 'OffTarget': 11}
+Canada stats: {'Pass': 121, 'Shot': 0, 'Interception': 62, 'Goal': 1, 'ShotOnTarget': 34, 'OffTarget': 17}
+--------------------------------------------------
+Match: Luxembourg vs Canada
+Score: 0 - 0
+Luxembourg stats: {'Pass': 151, 'Shot': 0, 'Interception': 56, 'Goal': 0, 'ShotOnTarget': 28, 'OffTarget': 20}
+Canada stats: {'Pass': 143, 'Shot': 0, 'Interception': 55, 'Goal': 0, 'ShotOnTarget': 29, 'OffTarget': 21}
+--------------------------------------------------
