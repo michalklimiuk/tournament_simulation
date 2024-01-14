@@ -43,7 +43,7 @@ X = [row[1:] for row in table_data[1:]]
 y = [row[-1] for row in table_data[1:]]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-model = MLPRegressor(random_state=42, max_iter=500)
+model = MLPRegressor(random_state=42, max_iter=300, hidden_layer_sizes=(50, 20), learning_rate_init=0.005, learning_rate='adaptive')
 
 
 model.fit(X, y)
