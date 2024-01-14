@@ -11,3 +11,7 @@
 5_1-MLPRegressor_predict.py - used to predict winner of next tournament based of AI and Multi-layer Perceptron Regressor
 
 5_2-Sequential_predict.py - used to predict winner of next tournament based of AI and Sequential model
+
+xx_simulations_stats.txt - files used to evaluate existing AI models
+
+6_MLPRegressor_enhanced - improved version of the best working AI model
